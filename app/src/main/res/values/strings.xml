@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tema3_hoja3</string>
+    <string name="action_settings">Settings</string>
+    <string name="ejercicio4">Ejercicio 4</string>
+    <string name="ejercicio3">Ejercicio 3</string>
+    <string name="ejercicio2">Ejercicio 2</string>
+    <string name="ejercicio1">Ejercicio 1</string>
+    <string name="textViewX">Valor X:</string>
+    <string name="textViewY">Valor Y:</string>
+    <string name="textViewZ">Valor Z:</string>
+</resources>
